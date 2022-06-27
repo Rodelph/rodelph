@@ -4,5 +4,7 @@
 - 🌱 I’m currently studying Biomedical Engineering.
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about anything.
-- 📫 How to reach me: Twitter :: @NaqiAmine
+- 📫 How to reach me: [Twitter - @NaqiAmine](https://twitter.com/NaqiAmine) 
 - ⚡ Fun fact: Ketchup was once sold as medicine.
+
+
