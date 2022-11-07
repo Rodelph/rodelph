@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some fun projects.
 - 🌱 I’m currently studying Biomedical Engineering.
 - 💬 Ask me about anything.
-- 📫 How to reach me: [Twitter - 🐦](https://twitter.com/NaqiAmine) [Email - 📧](anaqi@um6ss.ma)
+- 📫 How to reach me: [Twitter - 🐦](https://twitter.com/NaqiAmine) [Email - 📧](amine.naqi@vub.be)
 - ⚡ Fun fact: Ketchup was once sold as medicine.
 
 ### Languages and Tools :
