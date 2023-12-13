@@ -23,10 +23,3 @@
    
    <img align="left" alt="OpenCV" width="35px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" style="padding-right:10px;" />
 </div>
-
-<div align="center">
-   <a href="#" target="_blank">
-      <img src="/generated/overview.svg" target="_blank">
-      <img src="/generated/languages.svg" target="_blank">
-   </a>
-</div>
