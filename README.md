@@ -1,7 +1,6 @@
 ### Hi, my name is NAQI Amine 👋
 
 - 🔭 I’m currently working on some fun projects.
-- 🌱 I’m currently studying Applied Computer Science.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: Ketchup was once sold as medicine.
 
