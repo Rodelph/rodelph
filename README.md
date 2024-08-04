@@ -22,3 +22,6 @@
    
    <img align="left" alt="OpenCV" width="35px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" style="padding-right:10px;" />
 </div>
+
+
+![snake gif](https://github.com/Rodelph/rodelph/blob/output/github-contribution-grid-snake.gif)
