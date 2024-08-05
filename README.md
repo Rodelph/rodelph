@@ -1,11 +1,11 @@
-<h1 align="center"> Hi, my name is Amine 👋<h1/>
+<h1 align="center"> Hi, my name is Amine 👋</h1>
 <br/>
 
 - 🔭 I’m currently working on some fun projects.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: Ketchup was once sold as medicine.
 
-## Languages and Tools :
+## Languages and Tools Used for my projects :
 <div>
   <img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="padding-right:10px;" />
   <img align="left" alt="Cplusplus" width="35px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;" />
