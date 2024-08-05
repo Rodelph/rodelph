@@ -27,3 +27,15 @@
   <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodelph&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## 🤝🏻 &nbsp;For Inquiries
+
+<div class="social-badges">
+<a href="[https://www.linkedin.com/in/yashi-gupta-a65218232/](https://www.linkedin.com/in/amine-naqi-aa898724b/)" target="_blank">
+  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:inquiries@aminenaqi.org" target="_blank">
+  <img alt="email" src="https://img.shields.io/badge/Email-053766?style=for-the-badge&logo=gmail&labelColor=balck">
+</a>
+</div>
