@@ -1,9 +1,7 @@
-<h1 align="center"> Hi, my name is Amine 👋</h1>
-<br/>
+<img alt="banner" src="https://github.com/user-attachments/assets/ecbe7b0b-d152-4e39-b0c6-c36e0d83871a">
 
 - 🔭 I’m currently working on some fun projects.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: Ketchup was once sold as medicine.
 
 ## 🛠 &nbsp;Tech Stack
 <div>
