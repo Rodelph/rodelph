@@ -18,8 +18,8 @@
   <img align="center" alt="OpenCV" width="35px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" style="padding-right:10px;" />
   <img align="center" alt="Springboot" width="65px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" style="padding-right:10px;" />
   <img align="center" alt="Maven" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" style="padding-right:10px;" />
-  <img align="center" alt="Tensorflow" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" style="padding-right:10px;" />
-    <img align="center" alt="PyTorch" width="35px" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/pytorch/pytorch.png" style="padding-right:10px;" />
+  <img align="center" alt="Tensorflow" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" style="padding-right:10px;" />
+  <img align="center" alt="PyTorch" width="95px" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/pytorch/pytorch.png" style="padding-right:10px;" />
 </div>
 
 ![snake gif](https://github.com/Rodelph/rodelph/blob/output/github-snake-dark.svg)
