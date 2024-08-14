@@ -12,9 +12,9 @@ I'm a Test Automation Engineer with years of experience in healthcare and IT, cu
   <img align="center" alt="Cplusplus" width="35px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;" />
   <img align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
   <img align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />
-  <img align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding-right:10px;"/>   
-  <img align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding-right:10px;"/>
   <img align="center" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" style="padding-right:10px;"/>   
+  <img align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding-right:10px;"/>   
+  <img align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding-right:10px;"/>
   <img align="center" alt="Cmake" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/600px-Cmake.svg.png?20110417205825" style="padding-right:10px;" />
   <img align="center" alt="Mysql" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="padding-right:10px;" />
   <img align="center" alt="Qt5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" style="padding-right:10px;" />
