@@ -1,5 +1,7 @@
 <img alt="banner" src="https://github.com/user-attachments/assets/ecbe7b0b-d152-4e39-b0c6-c36e0d83871a">
 I'm a Test Automation Engineer with years of experience in healthcare and IT, currently pursuing a Masters in Applied Computer Science to broaden my expertise.
+</br>
+</br>
 
 - 🔭 I’m currently working on some fun projects.
 - 💬 Ask me about anything.
