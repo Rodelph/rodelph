@@ -36,7 +36,7 @@ I'm a Test Automation Engineer with years of experience in healthcare and IT, cu
 </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rodelph&theme=onedark)](https://github-profile-trophy.vercel.app/?username=rodelph&row=2&column=3)
 ## 🤝🏻 &nbsp;For Inquiries
 
 <div class="social-badges">
