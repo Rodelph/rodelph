@@ -1,4 +1,4 @@
-I'm a Web Developer with years of experience in healthcare and IT, currently pursuing a Masters in Applied Computer Science to broaden my expertise.
+I'm a Software Engineer with years of experience in healthcare and IT, currently pursuing a Masters in Applied Computer Science to broaden my expertise.
 </br>
 </br>
 
