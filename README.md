@@ -2,26 +2,107 @@ I'm a Software Engineer with years of experience in healthcare and IT, currently
 </br>
 </br>
 
+![15e7e300166c962d3b8a22f60b5cac9e](https://github.com/user-attachments/assets/a38ab34f-c948-4159-bbb7-da1a000c7b8c)
+
+
 - 🔭 I’m currently working on some fun projects.
 - 💬 Ask me about anything.
 
 ## 🛠 &nbsp;Tech Stack
-<div>
-  <img align="center" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="padding-right:10px;" />
-  <img align="center" alt="Cplusplus" width="35px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="padding-right:10px;" />
-  <img align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="padding-right:10px;" />
-  <img align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />
-  <img align="center" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" style="padding-right:10px;"/>   
-  <img align="center" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding-right:10px;"/>   
-  <img align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding-right:10px;"/>
-  <img align="center" alt="Cmake" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/600px-Cmake.svg.png?20110417205825" style="padding-right:10px;" />
-  <img align="center" alt="Mysql" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="padding-right:10px;" />
-  <img align="center" alt="Qt5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" style="padding-right:10px;" />
-  <img align="center" alt="OpenCV" width="35px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" style="padding-right:10px;" />
-  <img align="center" alt="Springboot" width="65px" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" style="padding-right:10px;" />
-  <img align="center" alt="Maven" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" style="padding-right:10px;" />
-  <img align="center" alt="Tensorflow" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" style="padding-right:10px;" />
-  <img align="center" alt="PyTorch" width="95px" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/pytorch/pytorch.png" style="padding-right:10px;" />
+
+<!-- Languages -->
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg" alt="icon"/>
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="icon" width="30" height="30" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="icon" width="30" height="30" />
+      </a>
+      <br>Java
+    </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="icon" width="30" height="30" />
+      <br>JavaScript
+    </td>
+   <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="icon" width="30" height="30" />
+      <br>HTML5
+    </td>
+     <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="icon" width="30" height="30" />
+      <br>CSS3
+    </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" />
+      <br>SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="100">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" width="48" height="48" alt="Cmake" />
+      <br>CMake
+    </td>
+    <td align="center"  width="100">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+           <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+          <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+    </td>
+           <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+       
+  </tr>
+       <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
+    <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="48" height="48" alt="vim" />
+      <br>VIM
+    </td>
+            <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
+      <br>Linux
+    </td>
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
+ </tr>
+</table>
 </div>
 
 ![snake gif](https://github.com/Rodelph/rodelph/blob/output/github-snake-dark.svg)
@@ -35,7 +116,6 @@ I'm a Software Engineer with years of experience in healthcare and IT, currently
 </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rodelph&theme=onedark)](https://github-profile-trophy.vercel.app/?username=rodelph&row=2&column=3)
 ## 🤝🏻 &nbsp;For Inquiries
 
 <div class="social-badges">
