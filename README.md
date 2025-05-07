@@ -1,6 +1,7 @@
-<h1 align="center"><samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> Making the world a better place </samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+<h1 align="center"><samp> <img src="https://github.com/user-attachments/assets/7cb4f6d7-a815-442d-a7a8-bf30ec892f66" width="35px" height="35px"> Making the world a better place </samp> <img src="https://github.com/user-attachments/assets/7cb4f6d7-a815-442d-a7a8-bf30ec892f66" width="35px" height="35px"> </h1>
 
 <h2 align="center"><samp>Hello there 👋, I'm Amine Naqi</samp></h2>
+
 
 
 <p align="center">
