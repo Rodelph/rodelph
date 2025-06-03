@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  I'm a Software Engineer with years of experience in healthcare and IT, currently pursuing a Masters in Applied Computer Science to broaden my expertise.
+  I'm an AI Engineer with years of experience in healthcare and IT, currently pursuing a Masters in Applied Computer Science to broaden my expertise.
   </br></br>
   <img src="https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif?fit=1920%2C1080&ssl=1" alt="intro-image">
 </p>
