@@ -38,10 +38,6 @@
       </a>
       <br>Java
     </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="icon" width="30" height="30" />
-      <br>JavaScript
-    </td>
    <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="icon" width="30" height="30" />
       <br>HTML5
@@ -50,12 +46,12 @@
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="icon" width="30" height="30" />
       <br>CSS3
     </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" width="30" height="30" />
       <br>SQL
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="100">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" height="30" alt="Spring" />
       <br>Spring
@@ -69,27 +65,19 @@
       <br>Docker
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-          <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30" height="30" alt="PostgreSQL" />
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30" height="30" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=mysql" width="30" height="30" alt="mysql" />
       <br>My SQL
     </td>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="30" height="30" />
-      <br>AWS
-    </td>
+    </tr>
     <td align="center" width="100"> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="30" height="30" alt="Pytorch" />
       <br>PyTorch
     </td>
-    </tr>
-       <td align="center" width="100"> 
+    <td align="center" width="100"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="30" height="30" alt="Git" />
       <br>Git
     </td>
@@ -101,11 +89,7 @@
         <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="30" height="30" alt="vim" />
       <br>VIM
     </td>
-            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" alt="VsCode" />
-      <br>VsCode
-    </td>
-      <td align="center" width="100">
+    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="linu" />
       <br>Linux
     </td>
