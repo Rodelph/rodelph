@@ -121,7 +121,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:inquiries@aminenaqi.org" target="_blank">
+  <a href="mailto:aminenaqi1997@gmail.com" target="_blank">
     <img alt="email" src="https://img.shields.io/badge/Email-053766?style=for-the-badge&logo=gmail&labelColor=black">
   </a>
 </div>
